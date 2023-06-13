@@ -1,5 +1,5 @@
-# Kpmg_virtual_internship
-This was a free virtual internship offered by forage.com where they assigned me with series of Data analysis to be completed.
+# KPMG virtual internship
+This was a virtual internship offered by forage.com where they assigned me with series of Data analysis to be completed.
 
 A dataset of  5000 customers containing multiple independent variables was given. I used R programming, Excel and Tableau to complete the project.
 
